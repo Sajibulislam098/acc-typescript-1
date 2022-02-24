@@ -1,0 +1,26 @@
+.singlePlayer {
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: center;
+}
+.stylesdisplay {
+    background-color: rgb(12, 150, 115);
+    padding-inline: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px 15px;
+    color: white;
+    border: 3px solid rgb(161, 161, 161);
+    margin-top: 1%;
+}
+.buttonStyle{
+    border: none;
+    background-color: #212529 ;
+    padding-inline: 18px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
