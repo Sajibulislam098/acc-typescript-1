@@ -54,7 +54,7 @@ const App: FC = () => {
             paddingBottom: "1%",
           }}
         >
-          BPL PLAYER AUCTION
+          Bangladesh Football Federation
         </h2>
         
         <div
